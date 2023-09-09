@@ -1,4 +1,5 @@
 # SnakeNLadder
+![snake](https://github.com/adityagaur0/SnakeNLadder/assets/112656570/788c0e78-9145-4c08-ad81-872440cea6d7)
 
 ## Overview
 
