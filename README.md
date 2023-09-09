@@ -13,12 +13,12 @@ Before you begin, ensure you have met the following requirements:
 
 ## How to Play
 
-- Click the "Start Game" button to begin the game.
-- Players take turns rolling the dice by clicking the respective player's button.
-- Players move forward based on the dice roll, with the direction alternating.
-- Ladder climbs and snake descents are automatically handled.
-- The game declares a winner when a player reaches the final square.
-- Start a new game by clicking "Start Again."
+1. Click the **"Start Game"** button to begin the game.
+2. Players take turns rolling the dice by clicking the respective player's button.
+3. Players move forward based on the dice roll, with the direction alternating.
+4. Ladder climbs and snake descents are automatically handled.
+5. The game declares a winner when a player reaches the final square.
+6. Start a new game by clicking **"Start Again."**
 
 ## Features
 
@@ -27,4 +27,5 @@ Before you begin, ensure you have met the following requirements:
 - Dynamic board with ladder climbs and snake descents.
 - User-friendly graphical interface implemented in JavaFX.
 - Reset functionality to start a new game.
+
 
