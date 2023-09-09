@@ -11,7 +11,8 @@ Before you begin, ensure you have met the following requirements:
 - Java Development Kit (JDK) installed on your system.
 - JavaFX SDK installed (typically bundled with JDK 8 and later).
 
-##How to Play
+## How to Play
+
 -Click the "Start Game" button to begin the game.
 -Players take turns rolling the dice by clicking the respective player's button.
 -Players move forward based on the dice roll, with the direction alternating.
@@ -19,7 +20,8 @@ Before you begin, ensure you have met the following requirements:
 -The game declares a winner when a player reaches the final square.
 -Start a new game by clicking "Start Again."
 
-##Features
+## Features
+
 -Classic Snake and Ladder gameplay for two players.
 -Realistic dice rolling and player movement animations.
 -Dynamic board with ladder climbs and snake descents.
