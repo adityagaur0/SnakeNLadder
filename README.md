@@ -6,7 +6,9 @@
 This Snake and Ladder game is a Java application with a graphical user interface implemented using JavaFX. It allows two players to play the classic Snake and Ladder board game. The game includes ladder climbs, snake descents, and a dynamic board that provides an engaging gaming experience.
 
 ## UML diagram 
-[UML_2020310-318.pdf](https://github.com/adityagaur0/SnakeNLadder/files/12566729/UML_2020310-318.pdf)
+[UML_2020310-318.pdf](https://github.com/adityagaur0/SnakeNLadder/files/12566735/UML_2020310-318.pdf)
+
+FOR CLEAR UML CONTACT - adityakumargaur0@gmail.com
 
 
 ## Prerequisites
